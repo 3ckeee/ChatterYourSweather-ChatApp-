@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>861995286947-3mtcujgr6d28nmohadr1egn4s3391rsf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.861995286947-3mtcujgr6d28nmohadr1egn4s3391rsf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgrIwjZgiOvWktaOWthBP0EygfOI-S0TU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>861995286947</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ErikKokinda.ChatterYourSweather</string>
+	<key>PROJECT_ID</key>
+	<string>chatteryoursweather</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatteryoursweather.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:861995286947:ios:f8616ae883b78d25739a16</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatteryoursweather-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
